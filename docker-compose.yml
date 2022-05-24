@@ -91,3 +91,4 @@ networks:
 volumes:
   setup:
   elasticsearch:
+  
